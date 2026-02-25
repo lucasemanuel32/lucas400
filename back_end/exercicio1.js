@@ -2,7 +2,7 @@
 <head>
 <title>retornar o valor absoluto de um número,</title>
 </head>
-Autor:lucas Eamunel
+Autor:lucas Emanuel
 <body>
   <script>
     var valor1 = Math.abs (-1234);
