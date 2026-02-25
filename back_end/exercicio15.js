@@ -2,7 +2,7 @@
 <head>
 <title>...</title>
 </head>
-
+Autor
 <body>
   <script>
     var valor1 = Math.sin (1.4);
