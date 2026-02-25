@@ -2,7 +2,7 @@
 <head>
 <title>...</title>
 </head>
-Autor
+Autor:lucas emanuel
 <body>
   <script>
     var valor1 = Math.tan (1.5);
