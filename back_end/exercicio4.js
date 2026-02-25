@@ -2,7 +2,7 @@
 <head>
 <title>...</title>
 </head>
-Autor
+Autor:lucas Emanuel
 <body>
   <script>
     var valor1 = Math.ceil (14.6);
